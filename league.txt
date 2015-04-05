@@ -1,0 +1,25 @@
+Colorado Rapids 0, Vancouver Whitecaps FC 0
+FC Dallas 0, Sporting Kansas City 0
+Houston Dynamo 0, Seattle Sounders FC 22
+Los Angeles Galaxy 0, San Jose Earthquakes 0
+Portland Timbers 0, Real Salt Lake 1
+Real Salt Lake 0, Colorado Rapids 0
+San Jose Earthquakes 0, FC Dallas 0
+Seattle Sounders FC 37, Houston Dynamo 0
+Sporting Kansas City 0, Los Angeles Galaxy 0
+Vancouver Whitecaps FC 1, Portland Timbers 0
+Colorado Rapids 0, Sporting Kansas City 0
+FC Dallas 0, Seattle Sounders FC 42
+Houston Dynamo 0, Real Salt Lake 0
+Los Angeles Galaxy 0, Vancouver Whitecaps FC 0
+Portland Timbers 0, San Jose Earthquakes 0
+FC Dallas 0, Real Salt Lake 0
+Los Angeles Galaxy 0, Houston Dynamo 0
+Colorado Rapids 1, Portland Timbers 0
+Seattle Sounders FC 53, San Jose Earthquakes 0
+Vancouver Whitecaps FC 0, Sporting Kansas City 0
+FC Dallas 0, Colorado Rapids 0
+Portland Timbers 0, Houston Dynamo 1
+Real Salt Lake 0, Los Angeles Galaxy 0
+Vancouver Whitecaps FC 0, San Jose Earthquakes 0
+Seattle Sounders FC 77, Sporting Kansas City 0

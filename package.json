@@ -1,0 +1,24 @@
+{
+  "name": "sam-hamm-substantial",
+  "version": "1.0.0",
+  "description": "Response to a code challenge from Substantial: given a listing of scores from a soccer league, generate a ranked list of league teams.",
+  "main": "rank.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "./node_modules/grunt-cli/bin/grunt test"
+  },
+  "author": "Sam Hamm <samhamm@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^2.1.2",
+    "grunt": "^0.4.5",
+    "grunt-cli": "^0.1.13",
+    "grunt-contrib-jshint": "^0.11.1",
+    "grunt-jscs": "^1.5.0",
+    "grunt-mocha": "^0.4.12",
+    "grunt-simple-mocha": "^0.4.0",
+    "mocha": "^2.2.1"
+  }
+}

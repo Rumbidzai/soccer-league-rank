@@ -1,0 +1,4 @@
+Fish 0, Fowl 0
+Dogs 2, Cats 2
+Ligers 42, Unicorns 42
+Hobbits 1, Dwarves 1
