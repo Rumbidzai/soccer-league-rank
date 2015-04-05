@@ -45,7 +45,7 @@ rank.parseString = function() {
         j++;
       }
 
-      // accounts for commas
+      // disposes of commas
       var comma = 0;
       if (dataString[i + 1] === ',') {
         comma = 1;
@@ -71,7 +71,7 @@ rank.computePoints = function() {
     } else if (gameScores[i] < gameScores[i + 1]) { // 2nd team wins
       pointsEarned.push([teams[i + 1], 3]);
       pointsEarned.push([teams[i], 0]);
-    } else if (gameScores[i] === gameScores[i + 1]) { // tie
+    } else if (gameScores[i] === gameScores[i + 1]) { // draw
       pointsEarned.push([teams[i], 1]);
       pointsEarned.push([teams[i + 1], 1]);
     } else {

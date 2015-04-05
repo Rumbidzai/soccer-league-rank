@@ -1,7 +1,7 @@
 {
   "name": "soccer-league-rank",
   "version": "1.0.0",
-  "description": "Response to a code challenge from Substantial: given a listing of scores from a soccer league, generate a ranked list of league teams.",
+  "description": "Given a listing of scores from a soccer league, generate a ranked list of league teams.",
   "main": "rank.js",
   "directories": {
     "test": "test"
