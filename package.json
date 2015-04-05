@@ -1,5 +1,5 @@
 {
-  "name": "sam-hamm-substantial",
+  "name": "soccer-league-rank",
   "version": "1.0.0",
   "description": "Response to a code challenge from Substantial: given a listing of scores from a soccer league, generate a ranked list of league teams.",
   "main": "rank.js",
@@ -9,8 +9,12 @@
   "scripts": {
     "test": "./node_modules/grunt-cli/bin/grunt test"
   },
+    "repository": {
+    "type": "git",
+    "url": "https://github.com/samhamm/soccer-league-rank.git"
+  },
   "author": "Sam Hamm <samhamm@gmail.com>",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "chai": "^2.1.2",
     "grunt": "^0.4.5",
