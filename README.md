@@ -28,16 +28,16 @@ There are two ways the user can enter league score data to be ranked:
 
 This input:
 
-```Lions 3, Snakes 3
-Tarantulas 1, FC Awesome 0
-Lions 1, FC Awesome 1
-Tarantulas 3, Snakes 1
-Lions 4, Grouches 0```
+```Lions 3, Snakes 3```
+```Tarantulas 1, FC Awesome 0```
+```Lions 1, FC Awesome 1```
+```Tarantulas 3, Snakes 1```
+```Lions 4, Grouches 0```
 
 will produce this output:
 
-```1. Tarantulas, 6 pts
-2. Lions, 5 pts
-3. FC Awesome, 1 pt
-3. Snakes, 1 pt
-5. Grouches, 0 pts```
+```1. Tarantulas, 6 pts```
+```2. Lions, 5 pts```
+```3. FC Awesome, 1 pt```
+```3. Snakes, 1 pt```
+```5. Grouches, 0 pts```
